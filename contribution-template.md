@@ -1,5 +1,5 @@
 ```
-Type: Imperitive
+Type: Imperative
 Topic: 
 Name: 
 Author:
@@ -15,9 +15,7 @@ Date:
 
 
 ### Description (in markdown)
-```
 
-```
 
 ### Tests
 ```
