@@ -7,7 +7,7 @@ Date: Feb 10, 2020
 ```
 
 
-### Starter code (if any)
+### Starter code
 ```python
 # Fill in the print function below
 print()
@@ -15,7 +15,7 @@ print()
 
 
 
-### Description (in markdown)
+### Description
 Get the computer to output `Hello, World!` to the terminal. Place the string in the `print` function in the space provided.
 
 
