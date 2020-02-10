@@ -7,7 +7,7 @@ Create new repl.it questions for St. Robert Computer Science
 
 For Functional Python: 
 - How to use and create functions.
-- How to create test files using [unittest](https://docs.python.org/3.8/library/unittest.html) (or pytest).
+- How to create test files using [unittest](https://docs.python.org/3.8/library/unittest.html).
 
 ## Contributing
 When contributing, please follow the guidelines below:
