@@ -7,7 +7,7 @@ Date: Feb 10, 2020
 ```
 
 
-### Starter code (if any)
+### Starter code
 ```python
 def hello_world() -> str:
     return ""
@@ -15,7 +15,7 @@ def hello_world() -> str:
 
 
 
-### Description (in markdown)
+### Description
 Make the function return the string `"Hello, World!"`.
 
 ### Tests
