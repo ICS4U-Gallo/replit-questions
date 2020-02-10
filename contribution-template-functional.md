@@ -15,9 +15,7 @@ Date:
 
 
 ### Description (in markdown)
-```
 
-```
 
 ### Tests
 ```python
