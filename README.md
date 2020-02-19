@@ -11,7 +11,7 @@ For Functional Python:
 
 ## Contributing
 When contributing, please follow the guidelines below:
-- Create a new file *in the appropriate folder* (either `imparitive` or `functional`, copying from `contribution-template.md`.
+- Create a new file *in the appropriate folder* (either `imparative` or `functional`, copying from `contribution-template.md`.
 - Name the file according to the naming convention: `##-topic-name.md`, for example `04-lists-sum-even.md`. See the [topics](#topics) below.
 - Fill out the file.
 - Open a pull request.
