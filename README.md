@@ -1,8 +1,6 @@
 # Repl.it Questions
 Create new repl.it questions for St. Robert Computer Science
 
-[Intro](intro)
-
 ## Required knowledge
 - Python
 - An understanding of how Repl.it problems work.
